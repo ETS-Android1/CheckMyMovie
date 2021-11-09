@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/movieImageViewId"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="100dp"
+        android:layout_weight="6"
+        app:srcCompat="@drawable/main_activity_image" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4">
+
+        <TextView
+            android:id="@+id/checkMyMovieTextViewId"
+            android:layout_width="386dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="30dp"
+            android:fontFamily="casual"
+            android:text="Check my movie App!"
+            android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/clickHereButtonId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="118dp"
+            android:layout_marginEnd="28dp"
+            android:layout_marginRight="28dp"
+            android:onClick="goToAppMethod"
+            android:text="Click here!"
+            app:backgroundTint="#39595E7C" />
+
+    </RelativeLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>
+

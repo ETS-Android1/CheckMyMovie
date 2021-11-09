@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    android:orientation="vertical"
+    tools:context=".AddMovieActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="casual"
+        android:padding="10dp"
+        android:text="Add Movie!"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/popcorn" />
+
+    <EditText
+        android:id="@+id/addTitleEditTextId"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/frame_edit_text"
+        android:hint="Title of movie..."
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/addCategoryEditTextId"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/frame_edit_text"
+        android:hint="Category of movie..."
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/addDescriptionEditTextId"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="10dp"
+        android:autofillHints=""
+        android:background="@drawable/frame_edit_text"
+        android:gravity="left"
+        android:hint="Description of movie..."
+        android:overScrollMode="always"
+        android:scrollbarStyle="insideInset"
+        android:scrollbars="vertical" />
+
+    <Button
+        android:id="@+id/addButtonId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:text="add movie"
+        app:backgroundTint="#39595E7C" />
+</LinearLayout>
