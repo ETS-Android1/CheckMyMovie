@@ -1,0 +1,57 @@
+{
+  "movies" : [ null, {
+    "category" : "action sci-fi",
+    "description" : "High-school student Sam Witwicky buys his first car, who is actually the Autobot Bumblebee. Bumblebee defends Sam and his girlfriend Mikaela Banes from the Decepticon Barricade, before the other Autobots arrive on Earth. They are searching for the Allspark, and the war on Earth heats up as the Decepticons attack a United States military base in Qatar. Sam and Mikaela are taken by the top-secret agency Sector 7 to help stop the Decepticons, but when they learn the agency also intends to destroy the Autobots, they formulate their own plan to save the world.",
+    "rate" : 6,
+    "thumbnail" : "",
+    "title" : "Transformers"
+  }, {
+    "category" : "drama ",
+    "description" : "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+    "rate" : 6,
+    "thumbnail" : "",
+    "title" : "The Shawshank Redemption"
+  }, {
+    "category" : "thiller",
+    "description" : "A film about two homicide detectives' (Morgan Freeman and Brad Pitt) desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer...",
+    "rate" : 0,
+    "thumbnail" : "",
+    "title" : "Se7en"
+  }, {
+    "category" : "Crime Drama",
+    "description" : "Tony Montana manages to leave Cuba during the Mariel exodus of 1980. He finds himself in a Florida refugee camp but his friend Manny has a way out for them: undertake a contract killing and arrangements will be made to get a green card. He's soon working for drug dealer Frank Lopez and shows his mettle when a deal with Colombian drug dealers goes bad. He also brings a new level of violence to Miami. Tony is protective of his younger sister but his mother knows what he does for a living and disowns him. Tony is impatient and wants it all however, including Frank's empire and his mistress Elvira Hancock. Once at the top however, Tony's outrageous actions make him a target and everything comes crumbling down.",
+    "rate" : 3,
+    "thumbnail" : "",
+    "title" : "Scarface"
+  }, null, {
+    "category" : "Drama Western",
+    "description" : "In 1858, a bounty hunter named Schultz seeks out a slave named Django and buys him because he needs him to find some men he is looking for. After finding them, Django wants to find his wife, Broomhilda, who along with him were sold separately by his former owner for trying to escape. Schultz offers to help him if he chooses to stay with him and be his partner. Eventually they learn that she was sold to a plantation in Mississippi. Knowing they can't just go in and say they want her, they come up with a plan so that the owner will welcome them into his home and they can find a way.",
+    "rate" : 4,
+    "thumbnail" : "",
+    "title" : "Django"
+  }, {
+    "category" : "Thiller",
+    "description" : "Adrián Doria, a wealthy businessman named Man of the Year due to his high-tech company and his trade agreements with the Asian market, meets Virginia Goodman, a veteran lawyer expert in witness preparation and judicial declaration, recommended by Adrián's lawyer Felix Leiva in order to create a credible defense. Arrested by the police in a mountain hotel room with the corpse of his lover at his side, photographer Laura Vidal, Adrián talks Virginia about the crime and his relationship with Laura, revealing that both suffered a car crash where a man called Daniel Garrido died, and how Laura manipulated Adrián to avoid the jail by Daniel's death. At the same time that Félix is looking for a clue that it could change the course of the events, Virginia and Adrián keep talking about the case but her, unconvinced of the Adrián's testimony, forces him to clear the dark points of his history, in a puzzle where the truth and the lie are easily exchangeable.",
+    "rate" : 0,
+    "thumbnail" : "",
+    "title" : "Contratiempo"
+  }, {
+    "category" : "Sci-Fi",
+    "description" : "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster which is formed by Loki and his team",
+    "rate" : 0,
+    "thumbnail" : "",
+    "title" : "Avengers"
+  }, {
+    "category" : "Action",
+    "description" : "Hunters and their prey--Neil and his professional criminal crew hunt to score big money targets (banks, vaults, armored cars) and are, in turn, hunted by Lt. Vincent Hanna and his team of cops in the Robbery/Homicide police division. A botched job puts Hanna onto their trail while they regroup and try to put together one last big 'retirement' score. Neil and Vincent are similar in many ways, including their troubled personal lives. At a crucial moment in his life, Neil disobeys the dictum taught to him long ago by his criminal mentor--'Never have anything in your life that you can't walk out on in thirty seconds flat, if you spot the heat coming around the corner'--as he falls in love. Thus the stage is set for the suspenseful ending....",
+    "rate" : 2,
+    "thumbnail" : "",
+    "title" : "Heat"
+  }, {
+    "category" : "Thiller",
+    "description" : "Nicholas Van Orton is a very wealthy San Francisco banker, but he is an absolute loner, even spending his birthday alone. In the year of his 48th birthday (the age his father committed suicide) his brother Conrad, who has gone long ago and surrendered to addictions of all kinds, suddenly returns and gives Nicholas a card giving him entry to unusual entertainment provided by something called Consumer Recreation Services (CRS). Giving in to curiosity, Nicholas visits CRS and all kinds of weird and bad things start to happen to him.",
+    "rate" : 0,
+    "thumbnail" : "",
+    "title" : "The game"
+  } ]
+}
